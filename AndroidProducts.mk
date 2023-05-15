@@ -17,6 +17,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_fajita.mk
+     $(LOCAL_DIR)/ofox_fajita.mk
 
-COMMON_LUNCH_CHOICES := twrp_fajita-eng
