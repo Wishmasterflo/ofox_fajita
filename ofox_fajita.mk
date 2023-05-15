@@ -31,13 +31,13 @@ $(call inherit-product, device/oneplus/fajita/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fajita
-PRODUCT_NAME := twrp_fajita
+PRODUCT_NAME := ofox_fajita
 PRODUCT_BRAND := OnePlus
 PRODUCT_MODEL := OnePlus A6013
 PRODUCT_MANUFACTURER := OnePlus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=OnePlus6T \
-    BUILD_PRODUCT=OnePlus6T \
-    TARGET_DEVICE=OnePlus6T \
-	PRODUCT_DEVICE=OnePlus6T
+PRODUCT_NAME=OnePlus6T \
+BUILD_PRODUCT=OnePlus6T \
+TARGET_DEVICE=OnePlus6T \
+PRODUCT_DEVICE=OnePlus6T
