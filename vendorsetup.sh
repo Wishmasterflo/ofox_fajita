@@ -12,7 +12,7 @@ export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 export OF_NO_ADDITIONAL_MIUI_PROPS_CHECK=1
 export LC_ALL="C"
 export TARGET_DEVICE_ALT="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
-export OF_TARGET_DEVICES="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
+export FOX_TARGET_DEVICES="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
@@ -43,7 +43,7 @@ export FOX_BUGGED_AOSP_ARB_WORKAROUND="1601559499"
 
 # -- add settings for R11 --
 export FOX_R11=1
-export FOX_ADVANCED_SECURITY=1
+export OF_ADVANCED_SECURITY=1
 export FOX_ENABLE_APP_MANAGER=1
 export OF_USE_TWRP_SAR_DETECT=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
