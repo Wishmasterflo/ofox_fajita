@@ -10,7 +10,6 @@ export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 export OF_NO_ADDITIONAL_MIUI_PROPS_CHECK=1
-export LC_ALL="C"
 export TARGET_DEVICE_ALT="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
 export FOX_TARGET_DEVICES="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
 
