@@ -20,6 +20,7 @@ export OF_DONT_PATCH_ENCRYPTED_DEVICE=1
 
 # We have a/b partitions
 export FOX_AB_DEVICE=1
+export OF_AB_DEVICE_WITH_RECOVERY_PARTITION=0
 
 # Screen specifications
 export OF_STATUS_H=-80
@@ -41,7 +42,6 @@ export OF_FIX_OTA_UPDATE_MANUAL_FLASH_ERROR=1
 export FOX_BUGGED_AOSP_ARB_WORKAROUND="1601559499"
 
 # -- add settings for R11 --
-export FOX_R11=1
 export OF_ADVANCED_SECURITY=1
 export FOX_ENABLE_APP_MANAGER=1
 export OF_USE_TWRP_SAR_DETECT=1
