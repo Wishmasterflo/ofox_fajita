@@ -12,6 +12,8 @@ export OF_DISABLE_MIUI_OTA_BY_DEFAULT=1
 export OF_NO_ADDITIONAL_MIUI_PROPS_CHECK=1
 export TARGET_DEVICE_ALT="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
 export FOX_TARGET_DEVICES="enchilada, fajita, oneplus 6, oneplus6, oneplus 6t, OnePlus6t, OP6xT"
+export BUILD_USERNAME="nobody"
+export BUILD_HOSTNAME="android-build"
 
 # Use magisk boot for patching
 export OF_USE_MAGISKBOOT=1
@@ -53,6 +55,9 @@ export OF_QUICK_BACKUP_LIST="/boot;/data;/system_image;/vendor_image;"
 
 # -- add settings for Android 12 --
 export OF_SKIP_DECRYPTED_ADOPTED_STORAGE=1
+
+# Use specific Magisk zip
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v26.3.zip
 
 # Dont install AROMAFM
 export FOX_DELETE_AROMAFM=1
