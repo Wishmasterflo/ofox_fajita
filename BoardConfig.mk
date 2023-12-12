@@ -125,6 +125,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_DEVICE_VERSION :=retrofit dynamic spec BY snnbyyds
 TW_MAX_BRIGHTNESS := 1023
 TW_DEFAULT_BRIGHTNESS := 420
+TW_MAX_BRIGHTNESS := 550
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.0/lun.%d/file
 TARGET_RECOVERY_PIXEL_FORMAT := BGRA_8888
