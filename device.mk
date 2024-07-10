@@ -26,7 +26,7 @@ PRODUCT_PACKAGES += \
 	cppreopts.sh \
     update_engine \
     update_verifier \
-	update_engine_sideload
+    update_engine_sideload
 
 AB_OTA_POSTINSTALL_CONFIG += \
     RUN_POSTINSTALL_system=true \
