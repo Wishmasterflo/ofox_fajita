@@ -121,7 +121,6 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_EXTRA_LANGUAGES := true
 TW_INCLUDE_FASTBOOTD := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
-TW_DEVICE_VERSION :=retrofit dynamic spec BY snnbyyds
 TW_DEFAULT_BRIGHTNESS := 420
 TW_MAX_BRIGHTNESS := 550
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
