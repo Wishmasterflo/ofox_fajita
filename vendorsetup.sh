@@ -53,7 +53,7 @@ export OF_QUICK_BACKUP_LIST="/boot;/data;/system_image;/vendor_image;"
 export OF_SKIP_DECRYPTED_ADOPTED_STORAGE=1
 
 # Use specific Magisk zip
-export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v27.0.zip
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v28.0.zip
 
 # Dont install AROMAFM
 export FOX_DELETE_AROMAFM=1
