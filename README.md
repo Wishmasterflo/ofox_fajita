@@ -4,6 +4,11 @@
 ## OrangeFox Recovery Project Oneplus 6T (Fajita)
 ## Changelog
 
+# 16-Mar-2026 R11.3 V6
+  - Updated with latest Orangefox source changes
+  - Updated Orangefox Version to latest R11.3
+  - Updated builtin Magisk to Magisk 30.6
+
 # 10-Jul-2024 R11.1 V5
   - Updated with latest Orangefox source changes
   - some small adjustments to the device tree
