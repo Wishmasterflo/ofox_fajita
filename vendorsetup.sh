@@ -51,9 +51,6 @@ export OF_QUICK_BACKUP_LIST="/boot;/data;/system_image;/vendor_image;"
 # -- add settings for Android 12 --
 export OF_SKIP_DECRYPTED_ADOPTED_STORAGE=1
 
-# Use specific Magisk zip
-export FOX_USE_SPECIFIC_MAGISK_ZIP=~/Magisk/Magisk-v28.1.zip
-
 # Dont install AROMAFM
 export FOX_DELETE_AROMAFM=1
 
