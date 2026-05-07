@@ -4,6 +4,10 @@
 ## OrangeFox Recovery Project Oneplus 6T (Fajita)
 ## Changelog
 
+# 07-May-2026 R12.0 V7
+  - New Orangefox R12.0 Version with new UI look
+  - Updated Orangefox Version to latest R12.0
+
 # 16-Mar-2026 R11.3 V6
   - Updated with latest Orangefox source changes
   - Updated Orangefox Version to latest R11.3
